@@ -1,3 +1,4 @@
 ﻿# LimeJungle
 
-https://ripemagic.github.io/LimeJungle/
+https://rishabh-maurya-303.github.io/LimeJungle/
+
